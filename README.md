@@ -1,5 +1,4 @@
 # Mini-Project-2-SHRDC-
-Decision Tree
 
 This is a mini project for AI & ML Competence for Industry 4.0 with Selangor Human Resources Department Centre (SHRDC).
 
